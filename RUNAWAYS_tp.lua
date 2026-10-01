@@ -7,7 +7,7 @@
     ⚙️  Requer: queue_on_teleport, fireproximityprompt, HttpGet, debug.getupvalues
 ]]
 
-local SCRIPT_URL = "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/RUNAWAYS_TP.lua"
+local SCRIPT_URL = "https://raw.githubusercontent.com/Foxy-Ghost/Runaway.main/refs/heads/main/RUNAWAYS_tp.lua"
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local CollectionService = game:GetService("CollectionService")
